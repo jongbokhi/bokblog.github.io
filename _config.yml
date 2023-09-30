@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "BOKi"
-  avatar           : "/assets/images/jb_ascii.png"
+  avatar           : "/images/jb_pic.png"
   bio              : "환영합니다. Welcome. Willkommen."
   location         : "Potsdam, Germany"
   email            : 
