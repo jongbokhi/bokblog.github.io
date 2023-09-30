@@ -112,20 +112,20 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-        url: "jongbok.data0319@gmail.com"
-    - label: "Website"
+      url: "jongbok.data0319@gmail.com"
+    - label: "Portfolio"
       icon: "fas fa-fw fa-link"
-        url: "https://jongbokhi.github.io/jongbokportfolio.github.io/"
+      url: "https://jongbokhi.github.io/jongbokportfolio.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/jongbokhi"
+      url: "https://github.com/jongbokhi"
    
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/jongbokhi"
+      url: "https://github.com/jongbokhi"
     
 
 
