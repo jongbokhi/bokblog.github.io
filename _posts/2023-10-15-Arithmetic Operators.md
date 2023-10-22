@@ -2,8 +2,8 @@
 layout: single
 title:  "[핵심6] 파이썬(Python) - 산술 연산(Arithmetic Operators)"
 typora-root-url: ../
-categories: python
-tag: [python, 파이썬, coding, 코딩]
+categories: 핵심 파이썬
+tag: [핵심 파이썬, 파이썬, python]
 toc: true
 author_profile: False
 
