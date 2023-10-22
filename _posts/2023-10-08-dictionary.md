@@ -2,8 +2,8 @@
 layout: single
 title:  "[핵심4] 파이썬(Python) - 딕셔너리(dictionary)"
 typora-root-url: ../
-categories: 핵심 파이썬
-tag: [핵심 파이썬, 파이썬, python]
+categories: 핵심파이썬
+tag: [핵심파이썬, 파이썬, python]
 toc: true
 author_profile: False
 
