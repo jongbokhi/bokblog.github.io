@@ -81,6 +81,11 @@ print(values)  # 출력: dict_values(['홍길동', 4, 95.5, ['수학', '과학',
 2. 이 객체들은 리스트처럼 인덱싱으로 요소에 접근할 수 없으며, 수정할 수 없습니다.
 3. 만약 리스트처럼 사용하려면 명시적으로 리스트로 변환해야 합니다. list()
 
+
+아래 제시된 코드를 직접 연습해보세요. 
+
+<iframe src="https://trinket.io/embed/python/3d8d7ce66b" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ```python
 # 딕셔너리 생성
 student = {
